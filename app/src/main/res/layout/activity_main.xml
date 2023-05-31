@@ -30,7 +30,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="$74"
+                android:text="$50"
                 android:textColor="#fff"
                 android:textSize="18sp"
                 android:textStyle="bold"
@@ -56,7 +56,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Beach isbut ashort walkaway"
+                android:text="Beach Front Hotels Are Just an Illusion"
                 android:textSize="24sp"
                 android:gravity="center"></TextView>
             <TextView
@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
                 android:gravity="center"
-                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."></TextView>
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Demikianlah perempuan, ia hanya ingat kekejaman orang kepada dirinya walau pun kecil dan ia lupa kekejamannya sendiri pada orang lain padahal begitu besarnya. Bukankah kau yang telah berjanji ketika saya diusir oleh Ninik Mamakmu karena saya asalnya tidak tentu, orang hina, tidak tulen Minangkabau, ketika itu kau antarkan saya di simpang jalan, kau berjanji akan menunggu kedatanganku berapapun lamanya, tapi kemudian kau berpaling ke yang lebih gagah kaya raya, berbangsa, beradat , berlembaga, berketurunan, kau kawin dengan dia. Kau sendiri yang bilang padaku bahwa pernikahan itu bukan terpaksa oleh paksaan orang lain tetapi pilihan hati kau sendiri. Hampir saya mati menanggung cinta Hayati.. 2 bulan lamanya saya tergeletak di tempat tidur, kau jenguk saya dalam sakitku, menunjukkan bahwa tangan kau telah berinang, bahwa kau telah jadi kepunyaan orang lain. Siapakah di antara kita yang kejam Hayati?"></TextView>
         </LinearLayout>
     </ScrollView>
     <Button
